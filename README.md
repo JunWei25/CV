@@ -1,3 +1,3 @@
-# cv
+# CV
 
-A cimple CV created using HTML and CSS. 
+A cimple CV created using HTML.
