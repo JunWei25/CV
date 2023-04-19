@@ -1,3 +1,3 @@
 # CV
 
-Coded a cimple CV using HTML.
+Coded a simple CV using HTML.
